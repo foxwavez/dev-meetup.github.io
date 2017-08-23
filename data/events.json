@@ -1296,6 +1296,15 @@
       "end": "2017-09-10 17:30:00",
       "address": "마루180 Event hall",
       "tags": "db, erd"
-    }
+    },
+     { 
+      "id": 145,
+      "title": "디자이너를 위한 AWS 소모임-3번째 모임",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/242734761/?eventId=242734761",
+      "start": "2017-08-30 19:30:00",
+      "end": "2017-08-30 22:00:00",
+      "address": "12F, GS Tower (지하철 2호선 역삼역 7번 출구)",
+      "tags": "tool, ptotype, designer"
+    },
   ]
 }
